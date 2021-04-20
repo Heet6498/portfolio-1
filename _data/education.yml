@@ -1,4 +1,3 @@
-# Education Template
 - layout: left
   name: Durham College
   dates: 2019 - 2020
@@ -7,21 +6,19 @@
     Majors:
   description: | # this will include new lines to allow paragraphs
     Statistical Predictive Modeling For Analytics • Data Analytics Tools & Techniques, Business Analysis • Data Visualizations • Ethical Leadership And Critical Decision Making
-
 - layout: left
-  name: Gujarat University
-  dates: 2013 - 2016
-  qualification: Master of Commerce
+  name: Durham College
+  dates: 2020 - 2021
+  qualification: Artificial Intelligence (Graduate Certificate)
   quote: >
     Majors:
   description: | # this will include new lines to allow paragraphs
-    Financial Management • Financial Economics • Marketing Management • Financial Markets • Investment Management • Operations Research • Risk Management
-
+    Data Analytics • Data visualization • Machine learning • Deep learning • AI Enterprise Solutions • Expert System
 - layout: left
-  name: Gujarat University
-  dates: 2010 - 2013
-  qualification: Bachelor of Commerce
+  name: VIT University
+  dates: 2015 - 2019
+  qualification: Bachelor of Information Technology
   quote: >
     Majors:
   description: | # this will include new lines to allow paragraphs
-    Advanced Statistics • Business Economics • Corporate Financial Accounting • Business Law • Taxation • Business Organization & Management
+    Programing Languages • Big Data • Mobile Application Devlopment • .NET • Cloud Devlopment • Neural Network • IOT 
