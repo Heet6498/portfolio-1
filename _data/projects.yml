@@ -1,17 +1,18 @@
 - layout: top-middle
+  
   name: CricketViz
   link: https://cricketviz.herokuapp.com/
   github: https://github.com/Heet6498/CricketViz
   quote: >
-   
+   End to End Data Visualization Web-app Using Streamlit — From Data Scraping to Deployment.
   description: | # this will include new lines to allow paragraphs
-    End to End Data Visualization Web-app Using Streamlit — From Data Scraping to Deployment. I have scrapped the Cricket stats data from ESPN-Cricinfo and deployed all the visualizations using streamlit. To build an interactive visualizations web app I have used streamlit's inbuild features and then deployed it through Heroku. - layout: top-middle
+    I have scrapped the Cricket stats data from ESPN-Cricinfo and deployed all the visualizations using streamlit. To build an interactive visualizations web app I have used streamlit's inbuild features and then deployed it through Heroku. - layout: top-middle
   
   name: VizWar
   link: 
   github: https://github.com/Heet6498/VizWar
   quote: >
-    
+    Comparison Between Visualization Platforms Such as Excel, Tableau, PowerBi, and Matplotlib/Seaborn
   description: | # this will include new lines to allow paragraphs
    Comparing different data visualization platforms while analyzing the dataset. In this comparison project, I have used a dataset from "Washington Post" which has various types of data fields. From all the known platforms, I visualized the dataset on Excel, Tableau, PowerBi, and Matplotlib/Seaborn which are very popular. In the end, I concluded my decision about which platform has more edge.
    
@@ -20,8 +21,9 @@
   link: 
   github: 
   quote: >
+    Predicting the quality of a cannabis plant, based on its botanical measurements.
   description: | # this will include new lines to allow paragraphs
-      ABC
+   As the plant classification quality is required to be “best” in order to be properly processed for medical use, I used machine learning models to determine the quality of the plants. The model will be able to separate the quality into three parts. "Best" is for medical purposes, "Good & Average" is for recreational purposes, "Low" as in garbage. 
       
 - layout: top-middle
   name: Bank Loan classification
