@@ -1,35 +1,32 @@
 - layout: top-middle
-  name: Forum Classification and Recommendation Engine
+  name: CricketViz
+  link: https://cricketviz.herokuapp.com/
+  github: https://github.com/Heet6498/CricketViz
+  quote: >
+   
+  description: | # this will include new lines to allow paragraphs
+     ABC
+- layout: top-middle
+  name: VizWar
+  link: 
+  github: https://github.com/Heet6498/VizWar
+  quote: >
+    
+  description: | # this will include new lines to allow paragraphs
+   ABC
+   
+- layout: top-middle
+  name: Cannabis Quality Prediction
   link: 
   github: 
   quote: >
-    https://bit.ly/stem-away-classifier-bert
   description: | # this will include new lines to allow paragraphs
-    At STEM-Away I voluntarily managed a team of 15, assigning tasks to the program manager and technical lead, built and developed a classification model using various natural language processing techniques like Google’s BERT technique from a discourse forum.  
-
+      ABC
+      
 - layout: top-middle
-  name: Diamond Price Prediction
-  link: diamond-price-prediction.herokuapp.com
-  github: dhrumilpatel02/diamond-price-prediction
+  name: Bank Loan classification
+  link: 
+  github: 
   quote: >
-    Predicting diamond prices using basic diamond measurement metrics.
   description: | # this will include new lines to allow paragraphs
-    A Web App for a Jewelry company, where their customers can look up for a predicted price for their desired diamond, used a regression model to predict the price and heroku to host the web app.
-
-- layout: top-middle
-  name: Cannabis Quality Prediction
-  link: github.com/dhrumilpatel02/cannabis-quality
-  github: dhrumilpatel02/cannabis-quality
-  quote: >
-    Predicting the quality of a cannabis plant, based on its botanical measurements.
-  description: | # this will include new lines to allow paragraphs
-    As the plant classification quality is required to be “best” in order to be properly processed for medical use, I used logistic regression to determine the quality of the plants.
-
-- layout: top-middle
-  name: Footballer's Attribute Prediction
-  link: github.com/dhrumilpatel02/footballer-attribute-prediction
-  github: dhrumilpatel02/footballer-attribute-prediction
-  quote: >
-    Predicting the attributes a footballer needs in order to excel in a position..
-  description: | # this will include new lines to allow paragraphs
-    I tried to predict what are the attributes that are significant for a footballer to excel in their position, I used various algorithm to predict and evaluate the metrics.
+    ABC
