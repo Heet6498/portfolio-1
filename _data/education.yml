@@ -1,19 +1,22 @@
 - layout: left
   name: Durham College
-  dates: 2019 - 2020
-  qualification: Data Analytics for Business Decision Making (Graduate Certificate)
-  quote: >
-    Majors:
-  description: | # this will include new lines to allow paragraphs
-    Statistical Predictive Modeling For Analytics • Data Analytics Tools & Techniques, Business Analysis • Data Visualizations • Ethical Leadership And Critical Decision Making
-- layout: left
-  name: Durham College
   dates: 2020 - 2021
   qualification: Artificial Intelligence (Graduate Certificate)
   quote: >
     Majors:
   description: | # this will include new lines to allow paragraphs
     Data Analytics • Data visualization • Machine learning • Deep learning • AI Enterprise Solutions • Expert System
+
+
+- layout: left
+  name: Durham College
+  dates: 2019 - 2020
+  qualification: Data Analytics for Business Decision Making (Graduate Certificate)
+  quote: >
+    Majors:
+  description: | # this will include new lines to allow paragraphs
+    Statistical Predictive Modeling For Analytics • Data Analytics Tools & Techniques, Business Analysis • Data Visualizations • Ethical Leadership And Critical Decision Making
+
 - layout: left
   name: VIT University
   dates: 2015 - 2019
