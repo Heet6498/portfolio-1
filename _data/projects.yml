@@ -5,7 +5,7 @@
   quote: >
    End to End Data Visualization Web-app Using Streamlit — From Data Scraping to Deployment.
   description: | # this will include new lines to allow paragraphs
-    Streamlit is an open-source Python library that makes it easy to create and share beautiful, custom web apps for machine learning and data science. Here in this End-to-End Data visualization Project I scraped data from the ESPNCricinfo website. This site contains historical cricket data. With the help of various tools I programmed this End-to-End Data visualization Project.
+    Streamlit is an open-source Python library that makes it easy to create and share beautiful, custom web apps for machine learning and data science. In this End-to-End Data visualization Project, I scraped the data from the ESPNCricinfo website. This site contains historical cricket data. With the help of various tools, I programmed this End-to-End Data visualization Project.
   
 - layout: top-middle
   name: VizWar
@@ -14,7 +14,7 @@
   quote: >
     Comparison Between Visualization Platforms Such as Excel, Tableau, PowerBi, and Matplotlib/Seaborn
   description: | # this will include new lines to allow paragraphs
-    Comparing different data visualization platforms while analyzing the dataset. In this comparison project, I have used a dataset from "Washington Post" which has various types of data fields. From all the known platforms, I visualized the dataset on Excel, Tableau, PowerBi, and Matplotlib/Seaborn which are very popular. In the end, I concluded my decision about which platform has more edge.
+    I am comparing different data visualization platforms while analyzing the dataset. In this comparison project, I have used a dataset from “Washington Post” with various types of data fields. I visualized the dataset on Excel, Tableau, PowerBi, and Matplotlib/Seaborn, which are very popular from all the known platforms. In the end, I concluded my decision about which platform has more edge.
    
 - layout: top-middle
   name: Cannabis Quality Prediction
@@ -23,7 +23,7 @@
   quote: >
     Predicting the quality of a cannabis plant, based on its botanical measurements.
   description: | # this will include new lines to allow paragraphs
-   As the plant classification quality is required to be “best” in order to be properly processed for medical use, I used machine learning models to determine the quality of the plants. The model will be able to separate the quality into three parts. "Best" is for medical purposes, "Good & Average" is for recreational purposes, "Low" as in garbage. 
+   Doctors recommend using the "highest" quality of cannabis for medicinal purposes. I developed a machine learning model to determine the quality of the plants. The model will be able to separate the quality into three parts. "Best" is for medical purposes, "Good & Average" is for recreational purposes, "Low" as in garbage.
       
 - layout: top-middle
   name: Bank Loan classification
@@ -32,4 +32,4 @@
   quote: >
     Building a classifier for the bank to check whether the applicant is approved for the loan or not. 
   description: | # this will include new lines to allow paragraphs
-    For every bank, deciding whether to approve the loan for the candidate is a very important decision. In this project, I have used tree-based algorithms to build my model. The dataset contains various columns which have more than 2000 categories. To deal with this situation, I have used encoding techniques and a PCA algorithm. 
+    For every bank, deciding whether to approve the loan for the candidate is a critical decision. In this project, I have used tree-based algorithms to build my model. The dataset contains various columns which have more than 2000 categories. To deal with this situation, I have used encoding techniques and a PCA algorithm.
