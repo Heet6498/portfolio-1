@@ -35,6 +35,15 @@ educaton_title: Education
 more_title: Published Articles
 more_content: | # this will include new lines to allow paragraphs
    - [A Guide to Data Standardization & Transformation](https://soniheet6498.medium.com/a-guide-to-data-standardization-transformation-1bf98d9b13b4)
+   - [Automating Exploratory Data Analysis: Short cut to amazing initial data visualizations](https://soniheet6498.medium.com/automating-exploratory-data-analysis-short-cut-to-amazing-initial-data-visualizations-8d6002300277)
+   - [VizWar: Comparison Between Visualization Platforms Such as Excel, Tableau, PowerBi, and Matplotlib/Seaborn](https://soniheet6498.medium.com/vizwar-%EF%B8%8F-comparison-between-visualization-platforms-such-as-excel-tableau-powerbi-and-577acf13c515)
+   - [End to End Data Visualization Web-app Using Streamlit, From Data Scraping to Deployment](https://soniheet6498.medium.com/end-to-end-data-visualization-web-app-using-streamlit-from-data-scrapping-to-deployment-98beb963df57)
+   -
+   - [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/FHLAMKMBWZVK?utm_product=course)(deeplearning.ai)
+   
+# More Section
+more_title: Articles
+more_content: | # this will include new lines to allow paragraphs
    - [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/FHLAMKMBWZVK?utm_product=course)(deeplearning.ai)
    
 # Footer
