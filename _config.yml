@@ -32,11 +32,6 @@ projects_title: Projects
 educaton_title: Education
 
 # More Section
-more_title: Published Articles
-more_content: | # this will include new lines to allow paragraphs
-A Guide to Data Standardization & Transformation 
-
-# More Section
 more_title: Professional Certifications Published Articles
 more_content: | # this will include new lines to allow paragraphs
    - [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/FHLAMKMBWZVK?utm_product=course)(deeplearning.ai)
