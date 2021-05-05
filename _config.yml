@@ -35,6 +35,7 @@ educaton_title: Education
 more_title: Professional Certifications Published Articles
 more_content: | # this will include new lines to allow paragraphs
    - [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/FHLAMKMBWZVK?utm_product=course)(deeplearning.ai)
+   - [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/FHLAMKMBWZVK?utm_product=course)(deeplearning.ai)
    
 # Footer
 footer_show_references: true
