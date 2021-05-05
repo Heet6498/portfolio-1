@@ -34,7 +34,7 @@ educaton_title: Education
 # More Section
 more_title: Published Articles
 more_content: | # this will include new lines to allow paragraphs
-   - A Guide to Data Standardization & Transformation 
+A Guide to Data Standardization & Transformation 
 
 # More Section
 more_title: Professional Certifications
