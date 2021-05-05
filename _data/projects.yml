@@ -5,7 +5,7 @@
   quote: >
    End to End Data Visualization Web-app Using Streamlit — From Data Scraping to Deployment.
   description: | # this will include new lines to allow paragraphs
-    I have scrapped the Cricket stats data from ESPN-Cricinfo and deployed all the visualizations using streamlit. To build an interactive visualizations web app I have used streamlit's inbuild features and then deployed it through Heroku.
+    Streamlit is an open-source Python library that makes it easy to create and share beautiful, custom web apps for machine learning and data science. Here in this End-to-End Data visualization Project I scraped data from the ESPNCricinfo website. This site contains historical cricket data. With the help of various tools I programmed this End-to-End Data visualization Project.
   
 - layout: top-middle
   name: VizWar
@@ -32,4 +32,4 @@
   quote: >
     Building a classifier for the bank to check whether the applicant is approved for the loan or not. 
   description: | # this will include new lines to allow paragraphs
-    For every bank deciding whether to approve the loan for the candidate is a very important decision. In this project, I have used tree-based algorithms to build my model. The dataset contains various columns which have more than 2000 categories. To deal with this situation, I have used encoding techniques and a PCA algorithm. 
+    For every bank, deciding whether to approve the loan for the candidate is a very important decision. In this project, I have used tree-based algorithms to build my model. The dataset contains various columns which have more than 2000 categories. To deal with this situation, I have used encoding techniques and a PCA algorithm. 
